@@ -1,0 +1,51 @@
+ALOI:
+Final number of local outliers: 80
+Final number of global outliers: 80
+Number of collective outliers in cluster 0: 6
+Number of collective outliers in cluster 1: 6
+Number of collective outliers in cluster 2: 7
+Number of collective outliers in cluster 3: 14
+Number of collective outliers in cluster 4: 15
+Number of collective outliers in cluster 5: 15
+Number of collective outliers in cluster 6: 5
+Number of collective outliers in cluster 7: 12
+Final number of collective outliers: 80
+
+Glass:
+Final number of local outliers: 10
+Final number of global outliers: 10
+Number of collective outliers in cluster 0: 10
+Final number of collective outliers: 10
+
+skin:
+Final number of local outliers: 24
+Final number of global outliers: 24
+Number of collective outliers in cluster 0: 7
+Number of collective outliers in cluster 1: 8
+Number of collective outliers in cluster 2: 9
+Final number of collective outliers: 24
+
+smtp:
+Final number of local outliers: 119
+Final number of global outliers: 119
+Number of collective outliers in cluster 0: 5
+Number of collective outliers in cluster 1: 8
+Number of collective outliers in cluster 2: 10
+Number of collective outliers in cluster 3: 7
+Number of collective outliers in cluster 4: 11
+Number of collective outliers in cluster 5: 10
+Number of collective outliers in cluster 6: 15
+Number of collective outliers in cluster 7: 9
+Number of collective outliers in cluster 8: 7
+Number of collective outliers in cluster 9: 8
+Number of collective outliers in cluster 10: 5
+Number of collective outliers in cluster 11: 14
+Number of collective outliers in cluster 12: 10
+Final number of collective outliers: 119
+
+Waveform:
+Final number of local outliers: 16
+Final number of global outliers: 16
+Number of collective outliers in cluster 0: 6
+Number of collective outliers in cluster 1: 10
+Final number of collective outliers: 16
